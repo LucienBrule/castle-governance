@@ -1,3 +1,83 @@
 = Castle Governance
+:toc:
 
-Repository initialization; full review corpus follows in the next commit.
+Version-controlled review corpus for the 2026 Paine Castle, Inc. / Alpha Tau Alumni Chapter governance reorganization.
+
+== Status
+
+This repository is a review and change-control system, not the legal authority for the organizations represented here.
+The circulated PDF artifacts remain authoritative unless and until formally adopted or filed instruments supersede them.
+AsciiDoc files are structured transcriptions intended for line-oriented review, Git history, and reproducible rendering.
+
+== Repository layout
+
+[source,text]
+----
+sources/                 Public-review PDF artifacts
+manifests/               SHA-256 and OCR provenance
+ocr/                     Raw page-by-page OCR text
+
+governance/pci/          PCI bylaws, certificate amendment, voting policy
+governance/atac/         2022 ATAC bylaws
+meetings/2026-10-10/     Agenda and member resolutions
+analysis/                 Non-normative review memoranda
+
+tools/                    Lint, provenance, redline, and render tooling
+render/                   Asciidoctor PDF theme
+.github/workflows/        CI
+----
+
+== Source integrity
+
+Run:
+
+[source,bash]
+----
+sha256sum -c manifests/SHA256SUMS
+python tools/lint_governance.py
+----
+
+The NY Certificate of Amendment circulated packet contained a filing cover sheet with personal contact information.
+The public repository intentionally omits that cover sheet.
+`manifests/sources.json` records both the hash of the public derivative and the SHA-256 of the complete original artifact, which is not committed.
+
+== Transcription model
+
+Every document was OCR'd from rendered PDF pages.
+Where a reliable embedded PDF text layer exists, it is used as a cross-check to correct OCR errors in the structured AsciiDoc representation.
+Raw OCR is retained page-by-page under `ocr/`.
+
+The source style is intentionally Git-friendly:
+
+* no automatic prose reflow;
+* one semantic paragraph or clause per physical line where practical;
+* stable explicit anchors for Articles and Sections;
+* source-page comments retained in structured transcriptions;
+* PDF artifacts and OCR text separately hashed.
+
+== Build
+
+Requires Ruby, Asciidoctor, and Asciidoctor PDF.
+
+[source,bash]
+----
+gem install asciidoctor -v 2.0.23
+gem install asciidoctor-pdf -v 2.3.19
+make lint
+make pdf
+----
+
+CI builds clean PDF review artifacts from the latest AsciiDoc and, on RFC branches / pull requests, emits a patch-oriented redline report.
+
+== RFC workflow
+
+The baseline `main` branch represents the circulated 2026 material in structured form.
+Governance changes belong on RFC branches and should be reviewed as textual patches rather than by circulating successive opaque office-document revisions.
+
+Suggested subject convention:
+
+[source,text]
+----
+[RFC PATCH v1 0/N] PCI governance amendments
+[RFC PATCH v1 1/N] elections: ...
+----

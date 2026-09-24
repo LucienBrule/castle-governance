@@ -1,0 +1,23 @@
+= Contributing / Source Style
+
+== Normative text rules
+
+. Do not auto-wrap or reflow legal prose.
+. Prefer one operative paragraph or clause per source line.
+. Preserve defined-term capitalization.
+. Every Article and Section in structured bylaws must have a stable explicit anchor.
+. Formatting-only changes must not churn normative prose.
+. Do not silently "correct" a transcription. If the PDF appears erroneous, preserve the source text and raise the issue separately.
+. The source PDF remains authoritative for transcription disputes.
+
+== Change discipline
+
+Governance proposals should be atomic and reviewable.
+Commit messages should state the problem, the proposed change, and the reason for the change.
+Do not mix unrelated policy changes into one commit merely because they touch the same Article.
+
+== OCR / provenance
+
+Raw OCR belongs under `ocr/<document>/page-NNN.txt`.
+The structured AsciiDoc may correct OCR errors only where the rendered source artifact or reliable embedded text makes the correction unambiguous.
+Source hashes must pass before a patch is considered reviewable.
