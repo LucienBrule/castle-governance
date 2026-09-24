@@ -1,0 +1,87 @@
+= Castle Governance Amendment Memo
+:toc:
+
+== Position
+
+I support the consolidation of ATAC into PCI in principle and the conversion of PCI into the combined Alpha Tau alumni chapter and housing corporation, with PCF remaining the separate charitable foundation.
+The structure solves real operational friction and places alumni governance and the House in a single corporate control plane.
+
+My concern is narrower: the proposed bylaws modernize the organization, but they also create mechanisms by which the incumbent Board can become self-reinforcing.
+I would support the package more comfortably if the electoral and accountability provisions were tightened while preserving the efficiency gains.
+
+== What I support as drafted
+
+* The overall PCI/ATAC consolidation and preservation of PCF as the separate 501(c)(3) entity.
+* Automatic, lifelong baseline Alumni Membership after undergraduate status ends, subject to fraternity good standing and appropriate discipline rules.
+* The current broad Voting Member policy: modest support of PCI or PCF, Reunion participation, recent alumni status, or waiver.
+* Virtual participation, the lower member quorum, and a scalable special-meeting threshold.
+* Open regular Board meetings and explicit Voting Member rights to inspect corporate books, minutes, and membership records.
+* Member approval of a mortgage on the House and supermajority approval of mergers, major asset transactions, and dissolution.
+
+== Targeted amendments
+
+=== 1. Open and auditable Director ballot access
+
+The Succession Planning Committee may recruit candidates, verify eligibility, gather disclosures, and make non-binding recommendations, but should not control ballot access.
+Every timely eligible nomination by a Voting Member, including self-nominations, should appear on the ballot.
+The Board should not select which eligible challengers may stand for election.
+Use a transparent multi-seat voting method adopted in advance, such as STV/ranked-choice or approval voting.
+
+=== 2. Keep only a narrow contingency floor-nomination mechanism
+
+Eliminating routine floor nominations and ad hoc write-ins is sensible for a large alumni body.
+Reopen nominations at the meeting only if a published nominee withdraws, becomes ineligible, develops a conflict, or another unforeseen event leaves fewer eligible candidates than available seats.
+
+=== 3. Delete the one-petition-candidate rule
+
+If eligible nominations reach the ballot automatically, the petition mechanism is unnecessary.
+There should be no one-candidate cap and no requirement that an eligible candidate obtain sponsorship from a Director, Officer, or PCF.
+
+=== 4. Add Director turnover protections
+
+Keep three-year staggered terms, but limit Directors to two consecutive elected terms followed by at least a one-year cooling-off period.
+The Board may fill genuine vacancies.
+If it creates a new directorship by increasing Board size, any interim appointee to that new seat should serve only until the next Annual Meeting of Members, when Voting Members elect the Director.
+
+=== 5. Constitutionalize a minimum path to Voting Member status
+
+The current policy is operationally sensible and should be protected from arbitrary future tightening.
+Put a durable minimum path in the bylaws: modest support of PCI or PCF, qualifying Reunion/annual-meeting participation, recent transition to Alumni Member status, or waiver.
+The Board may reduce requirements or grant waivers, but should not materially increase minimum financial or participation requirements without Voting Member approval.
+PCI should make recurring dues easy to pay electronically.
+
+=== 6. Preserve proxy voting, but make it prospective
+
+Expressly permit a Voting Member who cannot attend to designate another Voting Member as proxy before the meeting.
+Require proxies to be filed with the Secretary by a fixed pre-meeting deadline.
+Do not allow proxies to be created, reassigned, or solicited after the meeting is called to order or while a motion is pending.
+
+=== 7. Preserve meaningful member accountability for Directors
+
+Create an explicit member process to remove a Director for cause, with notice, an opportunity to be heard, and a substantial member threshold.
+The Board may retain authority over Officers and urgent misconduct, but ultimate accountability of elected Directors should not rest solely with the Board.
+Reconcile Article III, Section 1(b), which permits discipline including removal by two-thirds of Directors present, with Article III, Section 8(b), which provides a separate 75% Board removal-for-cause procedure.
+
+=== 8. Raise the threshold for mortgaging the House
+
+PCI should retain the legal ability to finance against the House when necessary, but pledging 49 Second Street should be extraordinary.
+Specify a heightened threshold - for example, two-thirds of the Board plus two-thirds or 75% of Voting Members - rather than leaving member approval to the general majority rule.
+
+== Questions for the Board and counsel
+
+* Does the proposed text intentionally preserve member proxy rights under applicable New York law, or is proxy voting intended to be prohibited?
+* How should Article III, Sections 1(b) and 8(b) be reconciled for Director discipline and removal?
+* Does Article X, Section 6 require Board initiation of every bylaw amendment, and how is that intended to interact with any non-waivable member amendment rights?
+* What exact legal form will the ATAC reorganization take, and will the final transaction instrument be circulated to members before it becomes effective?
+* Is an ordinary majority intended to approve a mortgage on the House, or should mortgages receive a supermajority protection comparable to other major transactions?
+
+== Bottom line
+
+I support the reorganization and a modern corporate governance model.
+I support strong Board authority over operations, clear financial controls, member observability, and reserved member powers over the House and existential transactions.
+
+I do not support a structure in which the incumbent Board appoints the succession apparatus, determines which eligible challengers reach the ballot, may create and fill additional seats, and permits Directors to serve indefinitely.
+The goal should be an efficient Board with genuine continuity - not a self-perpetuating Board.
+
+The architecture is close.
+These amendments preserve the operational advantages of the proposal while keeping the combined corporation meaningfully accountable to its Voting Members.

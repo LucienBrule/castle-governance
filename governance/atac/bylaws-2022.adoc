@@ -1,0 +1,350 @@
+= Alpha Tau Alumni Chapter Constitution and Bylaws (2022)
+:doctype: article
+:sectnums!:
+:toc:
+:toclevels: 4
+:source-pdf: ../../sources/2022-atac-bylaws.pdf
+:source-sha256: ab149d1b5e20ae7eaf6baf6bff5216985f2e60739f64f202c50dd4d4e4471ed4
+:document-id: atac-bylaws-2022
+:transcription-method: OCR-first; embedded text layer used to correct OCR where available
+:transcription-status: machine-normalized; source PDF remains authoritative
+
+
+// source-page: 1
+
+// source-page: 2
+
+[[atac.art-i]]
+== ARTICLE I - NAME AND PURPOSE
+
+[[atac.art-i.sec-1]]
+=== Section 1: Name
+
+The name of this organization shall be the Alpha Tau Alumni Chapter of the Pi Kappa Phi Fraternity.
+
+[[atac.art-i.sec-2]]
+=== Section 2: Purpose
+
+The purpose of the alumni chapter shall be:
+
+A. To cultivate and maintain the values of character, leadership, academics, sportsmanship and service.
+
+B. To maintain and promote true friendship amongst the brothers of Pi Kappa Phi.
+
+C. To further the interests of Pi Kappa Phi in the community and the individual lives of brothers.
+
+D. To assist undergraduate brothers and the chapter.
+
+E. To allow alumni to come together to communicate, interact, volunteer, and invest in the fraternity.
+
+[[atac.art-ii]]
+== ARTICLE II - MEMBERSHIP
+
+[[atac.art-ii.sec-1]]
+=== Section 1
+
+Any duly initiated member of Pi Kappa Phi in good standing under the terms and provisions of the Constitution and Supreme Laws of the Pi Kappa Phi Fraternity, and with their undergraduate chapter, and who is no longer enrolled as an undergraduate student at any university or college is eligible for membership in this Alumni Chapter upon payment of dues thereof and by abiding by all other local requirements.
+
+[[atac.art-ii.sec-2]]
+=== Section 2
+
+Membership shall be classified as “voting”, “regular”, and “Other PKP”. Only Alpha Tau Chapter initiated members may be “voting” or “regular” members. To maintain a voting membership Alpha Tau members must pay annual dues set at the annual meeting of the alumni chapter. Only voting members are entitled to vote for officers and on other issues brought before the membership. Alpha Tau Members who have not paid the yearly dues shall be classified as regular. Duly initiated members of other chapters must pay annual dues as set by the treasurer. Section 3: Seniors will be automatically listed as regular upon graduation. Once dues are paid, they will be moved to voting status.
+
+[[atac.art-iii]]
+== ARTICLE III - DUES
+
+[[atac.art-iii.sec-1]]
+=== Section 1
+
+The annual dues of the Alumni Chapter shall be paid prior to the annual meeting of the Alumni Chapter and shall be as follows:
+
+A. Proposed by the Treasurer at the annual meeting and must be approved by a majority vote of active members at the annual meeting.
+
+B. Officers' dues shall be set separately by the Treasurer per year.
+
+C. Dues shall be paid to the Treasurer at the beginning of each fiscal year.
+
+// source-page: 3
+
+[[atac.art-iv]]
+== ARTICLE IV - MEETINGS AND VOTING
+
+[[atac.art-iv.sec-1]]
+=== Section 1: A meeting of the Alumni Chapter shall be held once a year in Troy, NY.
+
+[[atac.art-iv.sec-2]]
+=== Section 2
+
+The Executive Board shall set the time for the annual meeting and notify the members 60 days prior to the date of the meeting. An agenda will also be provided concurrent with the notice.
+
+[[atac.art-iv.sec-3]]
+=== Section 3: Special Meetings of this alumni chapter may be called at any time by:
+
+A. The Executive Board by a unanimous vote.
+
+B. The President upon the written request of any ten members in active standing.
+
+C. Members of the Alumni chapter must be notified at least 30 days prior to the day of the special meetings. Special meetings may be held in person or virtually. The notification of the meeting must be emailed or postal mailed to all members and state the time, date, and purpose of the meeting.
+
+[[atac.art-iv.sec-4]]
+=== Section 4
+
+Quorum shall be defined as 50% of the Executive Board and 20% of active members. Proxy votes shall be counted for the purposes of reaching quorum.
+
+[[atac.art-iv.sec-5]]
+=== Section 5: No business shall be voted on at any meeting unless quorum is present.
+
+[[atac.art-iv.sec-6]]
+=== Section 6: Voting
+
+A. All alumni chapter members in active standing shall have one vote except as otherwise provided herein;
+
+B. Members may vote by proxy. Proxy votes must be received by the President in writing no less than five days prior to the meeting at which they shall be counted via email or postal mail. If a member decides to proxy their vote, they must designate in writing another member to cast their vote. Proxy votes that do not comply with these requirements shall be void.
+
+C. A proxy is defined as a member in good standing who designates another active member who is present at the meeting to cast their vote due to their absence.
+
+[[atac.art-v]]
+== ARTICLE V - OFFICERS and THE EXECUTIVE BOARD
+
+[[atac.art-v.sec-1]]
+=== Section 1
+
+The Executive Board shall consist of the President, Vice President, Secretary, Treasurer, Historian,Student Chapter Liaison, Director of Alumni Communications, and Director-at-Large. Section 2: President
+
+A. The President shall oversee all chapter operations and programs.
+
+B. The President shall preside over chapter meetings.
+
+C. The President shall serve as chair of the Development Committee.
+
+D. The President will be the primary contact with Pi Kappa Phi National.
+
+// source-page: 4
+
+[[atac.art-v.sec-3]]
+=== Section 3: Vice President
+
+A. The Vice President shall perform duties of the President in his absence.
+
+B. The Vice President serves as chair of the membership committee.
+
+[[atac.art-v.sec-4]]
+=== Section 4: Treasurer
+
+A. The Treasurer is responsible for proposing the dues each year at the alumni chapter meeting.
+
+B. The Treasurer is responsible for the collection of dues and allocation of alumni chapter funds.
+
+C. The Treasurer serves as chair of the finance committee.
+
+D. The Treasurer must serve as the chapter’s financial liaison between the chapter and the Pi Kappa Phi National organization.
+
+E. The Treasurer must present the chapter’s budget and financial standing at the annual meeting.
+
+F. The Treasurer shall file necessary paperwork with the state and federal government as prescribed by state and federal law.
+
+[[atac.art-v.sec-5]]
+=== Section 5: Secretary
+
+A. The Secretary shall work with the national fraternity to maintain the alumni records of the chapter.
+
+B. The Secretary shall keep accurate records and minutes of all meetings.
+
+[[atac.art-v.sec-6]]
+=== Section 6: Historian
+
+A. The Historian shall be responsible for keeping a photo file for the alumni chapter.
+
+B. The Historian shall be responsible for the security of all Chapter documents, records, annual composite images and other items of value to the Chapter in lieu of working with the undergraduate Chapter to do so.
+
+[[atac.art-v.sec-8]]
+=== Section 8: Student Chapter Liaison
+
+The Chapter Liaison shall maintain communication with the undergraduate chapter.
+
+A. This officer shall be responsible for working with the chapter Historian to develop, implement and maintain a chapter alumni career network.
+
+B. This position must be filled by a member who has graduated within ten years of his election.
+
+// source-page: 5
+
+C. The Chapter Liaison serves as chair for the Undergraduate Relations Committee.
+
+[[atac.art-v.sec-9]]
+=== Section 9: Director of Alumni Communications
+
+A. The Director of Alumni Communications shall be responsible for all alumni chapter communication with the general alumni population.
+
+B. This position will oversee the production and distribution of the alumni chapter newsletter program.
+
+This board member shall also be responsible for the development and maintenance of an alumni chapter Web site. The Director of Alumni Communication serves as chair to the Communications Committee.
+
+[[atac.art-v.sec-10]]
+=== Section 10
+
+Director at Large A. Director at Large may assume the tasks of any other officer as agreed to by the Board
+
+[[atac.art-v.sec-11]]
+=== Section 11: Term of Office
+
+A. Officers shall be elected to a two-year term at the alumni chapter annual meeting. Terms shall be staggered with the President, Vice President, Secretary, Chaplain and Director at Large of Alumni Events elected in odd years and the Treasurer, Historian, Director of Communications and Chapter Liaison elected on event years.
+
+[[atac.art-v.sec-12]]
+=== Section 12: Removal from Office
+
+A. Any officer of this alumni chapter may be removed from office for unethical conduct or conduct unbecoming of a brother of Pi Kappa Phi.
+
+B. A two thirds vote of the active members of the alumni chapter shall remove from office any officer in the alumni chapter, provided that charges have been openly presented and discussed to the entire alumni chapter at a scheduled meeting. The accused officer will be given the right to defend his action in front of the entire alumni chapter.
+
+[[atac.art-v.sec-13]]
+=== Section 13: Vacancies
+
+All vacancies of the Executive Board shall be filled by a majority vote of the Executive Board.
+
+B. The term for any filled vacancy shall expire at the next annual Alumni Chapter meeting. The term for that special election shall be in accordance with Article V, Section 11 of these bylaws.
+
+[[atac.art-v.sec-14]]
+=== Section 14: Elections
+
+A. Elections shall be held at the alumni chapter annual meeting and the members of the dues paying members of the alumni chapter shall vote by secret ballot.
+
+B. Members who are interested in running for an officer position may submit their nomination by telephone or in writing to the current President no more than 45 days prior to the annual meeting. However, candidates may also be nominated from the
+
+// source-page: 6
+
+floor.
+
+C. Each candidate will be given the opportunity to give a three-minute speech to the chapter.
+
+D. If a vote results in a tie, the two candidates with the highest percentage of votes will hold a run-off vote to designate the winner.
+
+The new officers will be installed at the end of the annual meeting.
+
+Votes shall be counted by the outgoing President, the sitting Secretary and if possible one Member-At-Large from the alumni chapter, who is not a candidate for any office.
+
+[[atac.art-vi]]
+== ARTICLE VI - COMMITTEES
+
+[[atac.art-vi.sec-1]]
+=== Section 1: The alumni chapter shall have the following standing committees:
+
+Membership and Recruitment Committee
+
+Social/Special Event Committee
+
+Finance Committee
+
+Undergraduate Relations Committee
+
+Communications Committee
+
+Development Committee
+
+[[atac.art-vi.sec-2]]
+=== Section 2
+
+The President has the authority to create an ad-hoc committee. If he chooses to do so, he must designate a chair, the members, its purpose, and term of service.
+
+[[atac.art-vi.sec-3]]
+=== Section 3
+
+Each member of the alumni chapter must serve on one permanent or ad-hoc committee.
+
+[[atac.art-vi.sec-4]]
+=== Section 4: Membership and Recruitment Committee
+
+A. This committee shall be chaired by the Vice President.
+
+B. This committee must secure the names, postal addresses, e-mail addresses, telephone numbers, and field of employment of alumni chapter members.
+
+C. This committee must maintain an active alumni database of the alumni chapter.
+
+D. The committee shall be responsible for promoting active membership on an on-going basis.
+
+E. The committee will recruit active seniors of the undergraduate Alpha Tau Chapter to join the alumni chapter.
+
+[[atac.art-vi.sec-5]]
+=== Section 5: Social/Special Event Committee
+
+This committee shall be chaired by the Director of Alumni Events. This committee is responsible for planning an alumni event during Alpha Tau Chapter’s
+
+// source-page: 7
+
+Initiation week each year.
+
+This committee is responsible for planning at least one spring event.
+
+The committee is responsible for planning social events in connection with alumni meetings.
+
+[[atac.art-vi.sec-6]]
+=== Section 6: Finance Committee
+
+This committee shall be chaired by the Treasurer.
+
+B. This committee will help the Treasurer prepare the chapter budget and review all alumni chapter investments.
+
+[[atac.art-vi.sec-7]]
+=== Section 7: Undergraduate Relations Committee
+
+A. This committee shall be chaired by the Chapter Liaison.
+
+B. The committee will promote an active relationship between the alumni chapter and the undergraduate chapter.
+
+C. The committee will plan at least one event per year with all members of the alumni and undergraduate chapter.
+
+[[atac.art-vi.sec-8]]
+=== Section 8: Communications Committee
+
+A. This committee shall be chaired by the Director of Alumni Communications.
+
+B. This committee will be responsible for publishing two or three alumni newsletters per year.
+
+[[atac.art-vi.sec-9]]
+=== Section 9: Development Committee
+
+This committee shall be chaired by the President. This committee is responsible for developing and promoting the advancement of the alumni chapter.
+
+C. This committee is responsible for conducting the annual giving campaign.
+
+[[atac.art-vii]]
+== ARTICLE VII - CHAPTER FINANCES
+
+[[atac.art-vii.sec-1]]
+=== Section 1
+
+The chapter shall maintain an active checking account administered by the Treasurer.
+
+[[atac.art-vii.sec-2]]
+=== Section 2: All checks issued must be approved by the Treasurer and the President
+
+[[atac.art-vii.sec-3]]
+=== Section 3: All expenses must be pre-approved by the Treasurer and the President.
+
+[[atac.art-vii.sec-4]]
+=== Section 4: Signed receipts must be submitted to the Treasurer for reimbursement.
+
+[[atac.art-viii]]
+== ARTICLE VIII - AMENDMENTS
+
+[[atac.art-viii.sec-1]]
+=== Section 1
+
+To amend the bylaws, an amendment must be presented in writing to the executive board after which the proposal shall be presented and voted on by the members at the next alumni meeting.
+
+// source-page: 8
+
+[[atac.art-viii.sec-2]]
+=== Section 2
+
+A two-thirds vote is required to approve any amendment to the constitution of bylaws. If approved, amendments are effective immediately.
+
+[[atac.art-ix]]
+== ARTICLE IX - ADOPTION
+
+This set of Constitution and Bylaws was adopted at the initial meeting of the Alumni Chapter on March 29th, 2022.
+
+PAGE
+
+PAGE 10
+
+// source-page: 9

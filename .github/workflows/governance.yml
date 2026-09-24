@@ -1,0 +1,38 @@
+name: governance
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint-and-render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install Asciidoctor toolchain
+        run: |
+          gem install asciidoctor -v 2.0.23 --no-document
+          gem install asciidoctor-pdf -v 2.3.19 --no-document
+
+      - name: Verify and lint
+        run: make lint
+
+      - name: Render clean PDFs
+        run: make pdf
+
+      - name: Render patch redline
+        if: github.event_name == 'pull_request'
+        run: |
+          BASE="origin/${{ github.base_ref }}" make redline
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: governance-pdfs
+          path: build/*.pdf
