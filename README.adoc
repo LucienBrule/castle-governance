@@ -1,0 +1,3 @@
+= Castle Governance
+
+Repository initialization; full review corpus follows in the next commit.
