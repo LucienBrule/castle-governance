@@ -1,0 +1,600 @@
+= Proposed Amended and Restated By-Laws of Paine Castle, Inc.
+:doctype: article
+:sectnums!:
+:toc:
+:toclevels: 4
+:source-pdf: ../../sources/2026-pci-bylaws-proposed.pdf
+:source-sha256: 79efa1e8e6f457df50d29e723540573450550ab4b63178565b13b50ccf4112fb
+:document-id: pci-bylaws-2026
+:transcription-method: OCR-first; embedded text layer used to correct OCR where available
+:transcription-status: machine-normalized; source PDF remains authoritative
+
+
+// source-page: 1
+
+AMENDED AND RESTATED
+
+BY-LAWS OF
+
+PAINE CASTLE, INC.
+
+Dated as of October 10, 2026
+
+== PREFACE
+
+Capitalized terms used in these By-Laws and not otherwise defined shall have the meanings ascribed to them in the Glossary of Defined Terms appearing at the end of these By-Laws.
+
+The Corporation is organized and operated as a social club under Section 501(c)(7) of the Internal Revenue Code.
+
+The Corporation encourages and invites all of its Members to actively support and participate in the Corporation’s business, actions, governance, funding, use and achievement of its purposes on the terms set forth in these By-Laws and to communicate with its Directors, Officers, and other Members.
+
+*********
+
+== IMPORTANT LEGAL NOTICE AND DISCLAIMER
+
+THE CORPORATION IS SEPARATE AND DISTINCT FROM THE ALPHA TAU CHAPTER (ALSO KNOWN AS THE UNDERGRADUATE CHAPTER). NONE OF THE ALPHA TAU CHAPTER NOR ANY OF ITS MEMBERS IS CONTROLLED BY OR SUBSERVIATE TO THE CORPORATION. THE CORPORATION DISCLAIMS ANY AND ALL RESPONSIBILITIES FOR ACTIONS BY THE ALPHA TAU CHAPTER AND ANY OF ITS MEMBERS. NO ACTION TAKEN BY EITHER THE ALPHA TAU CHAPTER OR ANY OF ITS MEMBERS SHALL AFFECT THE FOREGOING OR ANYTHING ELSE IN THESE BY-LAWS OR THE CERTIFICATE OF INCORPORATION OR OTHERWISE BE BINDING ON THE CORPORATION. FURTHER, NEITHER THE ALPHA TAU CHAPTER NOR ANY OF ITS MEMBERS SHALL ACT AS THE LEGAL REPRESENTATIVE OR AGENT OF THE CORPORATION, NOR SHALL THEY HAVE THE RIGHT TO ASSUME, CREATE, OR INCUR ANY LIABILITY OF ANY KIND WHATSOEVER, EXPRESSED OR IMPLIED, AGAINST OR IN THE NAME OR ON BEHALF OF THE CORPORATION. ALL PERSONS HAVING INTERACTIONS WITH THE ALPHA TAU CHAPTER OR ANY OF ITS MEMBERS MUST LOOK SOLELY TO SUCH PERSON OR PERSONS, AND NOT TO THE CORPORATION.
+
+// source-page: 2
+
+[[pci.art-i]]
+== ARTICLE I - Purpose; Offices; Seal
+
+[[pci.art-i.sec-1]]
+=== Section 1. Purposes
+
+The purposes of the Corporation are set forth in the Certificate of Incorporation, which purposes generally are to serve as the housing corporation for the Alpha Tau Chapter and as the Alpha Tau alumni chapter.
+
+[[pci.art-i.sec-2]]
+=== Section 2. Offices
+
+The principal office of the Corporation within the State of New York shall be the House, located at 49 Second Street, Troy, New York 12180. The Corporation may also maintain additional offices at such other places within or outside the State of New York as the Board may from time to time establish.
+
+[[pci.art-i.sec-3]]
+=== Section 3. Seal
+
+The seal of the Corporation, if any, shall be in such form as the Board shall prescribe.
+
+[[pci.art-ii]]
+== ARTICLE II - Membership
+
+[[pci.art-ii.sec-1]]
+=== Section 1. Members
+
+a. There are three classes of Members: Alumni Members, Honorary Members, and Undergraduate Members. A Member may be a member of only one class at a time.
+
+(i) Alumni Members. “Alumni Members” are all initiated brothers of the Alpha Tau Chapter who have, as of the relevant date, completed or permanently discontinued their undergraduate course study at RPI and remain in good standing with the Pi Kappa Phi fraternity; provided, however, that if an initiated brother of the Alpha Tau Chapter transfers to another institution where a student chapter of Pi Kappa Phi is located and he becomes affiliated with such chapter, then that brother shall not be reclassified as an Alumni Member until completion or permanent discontinuation of his course of study at that institution. Alumni Members may be either Voting Members or Non-Voting Members in accordance with these By-Laws, including Article III, Section 1(a)(v). All Alumni Members are encouraged to be Voting Members.
+
+(ii) Honorary Members. “Honorary Members” are persons who are
+
+(x) faculty members of RPI or alumni of a chapter of the Pi Kappa Phi fraternity (other than the Alpha Tau Chapter) and (y) elected to honorary membership by the Board. Honorary Members shall be Non-Voting Members. As of the date of these By-Laws, RPI Professor Emeritus Kenneth J. Miller is the only Honorary Member.
+
+(iii) Undergraduate Members. “Undergraduate Members” are all then-current initiated brothers of the Alpha Tau Chapter who, as of the relevant date, are both in good standing with the Pi Kappa Phi fraternity and students matriculated as undergraduate students at RPI. Such membership status with the Corporation is consistent with the
+
+// source-page: 3
+
+Corporation’s status as a social club existing inter alia in support of the Alpha Tau Chapter and is intended to enhance the opportunity for commingling by the Undergraduate Members with other Members. Undergraduate Members are Non- Voting Members and are not eligible to be Directors or Officers. Likewise, while the Directors and Officers may from time-to-time keep the Alpha Tau Chapter and the Undergraduate Members apprised of the affairs of the Corporation, no Undergraduate Member shall have any right whatsoever to notice of, or attendance at, meetings of the Corporation. Notwithstanding anything to the contrary, Undergraduate Members shall not be members of the Corporation for purposes of the N-PCL.
+
+b. All Alumni, Honorary, and Undergraduate Members shall automatically be or become Members on the terms and conditions set forth in these By-Laws. Membership in the Corporation is for life except as otherwise provided in Article II, Section 2.
+
+[[pci.art-ii.sec-2]]
+=== Section 2. Termination of Membership
+
+The rights, powers and privileges of membership in the Corporation as to any Member shall terminate immediately upon:
+
+(i) the resignation from the Corporation of such Member in accordance with Article II, Section 4(a);
+
+(ii) expulsion or suspension of such Member in accordance with Article III, Section 1(b); or
+
+(iii) such Member no longer either being a member of the Alpha Tau Chapter without becoming an Alumni Member in accordance with the terms set forth in these By-Laws or being in good standing with the Pi Kappa Phi fraternity.
+
+[[pci.art-ii.sec-3]]
+=== Section 3. Transfer of Membership
+
+Membership in the Corporation shall not be transferable.
+
+[[pci.art-ii.sec-4]]
+=== Section 4. Resignation; Reinstatement
+
+a. Any Member may resign by filing a notice (in writing or electronically) of resignation with the Secretary of the Corporation, which resignation shall be effective upon receipt or at such later time as may be specified in the notice of such resignation. A Member’s resignation from the Corporation shall result in the resignation of such Member as a Director and Officer of, and all other positions of such Member with, the Corporation (as applicable) on the effective date of such Member’s resignation. Resignation shall not relieve the resigning Member of the obligation to perform under any agreement he may have entered into with the Corporation or otherwise. During the period between the submission of his resignation and the effective date of such resignation, the Member shall retain all benefits and privileges of membership in the Corporation, including such voting and other rights as are specified in these By-Laws.
+
+b. Upon written request signed by a former Member and filed with the Secretary, the Board may reinstate such former Member to membership on such terms as the Board considers appropriate.
+
+[[pci.art-ii.sec-5]]
+=== Section 5. Place of Meetings
+
+Subject to the provisions of Article VI, in-person participation at meetings of Members may be at the House, such other place, within or without the State of New York, or virtually as determined by the Board.
+
+// source-page: 4
+
+[[pci.art-ii.sec-6]]
+=== Section 6. Annual Meeting of Members
+
+The Annual Meeting of Members shall be held for the election of Directors with then expiring terms and the transaction of such other business as may properly come before the meeting on the date and place to be determined by the Board at such date and hour as shall be designated in the notice thereof.
+
+[[pci.art-ii.sec-7]]
+=== Section 7. Special Meetings
+
+Special meetings of the Members of the Corporation may be called by the Board or at least ten percent (10%) of the Voting Members who have given signed written notice to the Secretary of the Corporation, which special meeting shall be held at such place and at such date and hour as shall be designated in the notice thereof provided by the Corporation. Notice of special meetings of the Members shall specify in writing the purpose or purposes of such special meetings and only such purpose(s) may be taken up at such special meetings.
+
+[[pci.art-ii.sec-8]]
+=== Section 8. Notice of Meetings
+
+Notice of each meeting of Members shall be given in accordance with the provisions of Article VI and applicable law to each Voting Member (and may be given to Non-Voting Members) not less than 10 nor more than 50 calendar days prior to the date of meeting.
+
+[[pci.art-ii.sec-9]]
+=== Section 9. Quorum
+
+Except as otherwise required by the non-waivable provisions of applicable law, the presence of the lesser of
+
+(i) 100 Voting Members and
+
+(ii) ten percent (10%) of all Voting Members shall constitute a quorum for the transaction of business at meetings of Members. In the absence of a quorum at any such meeting or any adjournment or adjournments thereof, a majority of Voting Members present, or, in the absence of all Members, any Officer entitled to preside at, or to act as secretary of, such meeting may adjourn such meeting from time to time until the number of Voting Members requisite for a quorum shall be present. At any such adjourned meeting at which a quorum may be present, any business may be transacted that might have been transacted at the meeting as originally called.
+
+[[pci.art-ii.sec-10]]
+=== Section 10. Voting by Members
+
+a. Voting Members shall exclusively have voting rights with respect to all matters required to be presented to Members by the non-waivable provisions of applicable law, the status of the Corporation with the IRS, the Certificate of Incorporation, or these By-Laws. Non-Voting Members shall not have any voting rights. The election of a Director by Members shall be authorized by a plurality of the votes cast by Voting Members at a meeting of Members, if a quorum is present at such meeting. Except as otherwise required by applicable law, the status of the Corporation with the IRS, the Certificate of Incorporation, or these By-Laws, any other action by Members shall be authorized by a majority of the votes cast by Voting Members at a meeting of Members, if a quorum is present at such meeting.
+
+b. As of the date hereof, these By-Laws provide voting rights to Voting Members with respect to the following matters:
+
+(i) electing persons as Directors in accordance with Article III, Section 4;
+
+(ii) imposing any mortgage on the House in accordance with Article III, Section 1(a)(iv);
+
+// source-page: 5
+
+(iii) making any amendment, modification or revocation of these By-Laws or the Certificate of Incorporation that requires the vote of Members in accordance with Article X, Section 6;
+
+(iv) approving any matter (if any) required to be presented for approval by Members by the Certificate of Incorporation;
+
+(v) approving any matter required to be presented for approval by members of a “Type A” New York not-for-profit corporation by the provisions of the N-PCL that cannot otherwise be altered, waived or amended, all of which voting rights with respect to other matters are hereby altered, waived and amended;
+
+(vi) approving any matter that the Board determines to submit to Members for approval;
+
+(vii) approving a transaction with an interested person in accordance with Article X, Section 5; and
+
+(viii) approving the Corporation’s merger, consolidation, asset sale, or dissolution in accordance with Article X, Section 4.
+
+[[pci.art-ii.sec-11]]
+=== Section 11. Organization
+
+At each meeting of Members, one of the following shall act as chairperson of the meeting and preside at the meeting, in the following order of precedence:
+
+(i) the President of the Corporation;
+
+(ii) if the President shall be absent from such meeting, any other Officer designated by the Board to act as chairperson of such meeting; or
+
+(iii) in the absence thereof, a Member who shall be chosen chairperson of such meeting by a majority of the Voting Members present. The Secretary (or, if the Secretary shall be presiding over the meeting in accordance with the provisions of this Section or if the Secretary shall be absent from such meeting, the person whom the chairperson of such meeting shall appoint) shall act as secretary of such meeting and keep the minutes of such meeting.
+
+[[pci.art-ii.sec-12]]
+=== Section 12. Order of Business
+
+The order of business at each meeting of Members shall be determined by the chairperson of such meeting, but such order of business may be changed by a majority vote of the Voting Members present at such meeting.
+
+[[pci.art-iii]]
+== ARTICLE III - Directors
+
+[[pci.art-iii.sec-1]]
+=== Section 1. Powers and Authority
+
+a. The affairs of the Corporation shall be managed by the Board. In furtherance of the Corporation’s purposes, the Board shall possess, and may exercise, any and all powers and shall have all authority granted to the Corporation by law, the Certificate of Incorporation and these By-Laws; provided, however, that the Board shall endeavor to cause the Corporation to operate consistently with its status with the IRS. Without limiting the generality of the foregoing plenary authority granted to the Board, and in addition to the other powers and authority specifically enumerated in these By-Laws, the Board shall have the following powers and authority:
+
+// source-page: 6
+
+(i) To determine the appropriate uses of the House, and the terms, conditions, rents, and fees therefore;
+
+(ii) To manage, maintain, protect, preserve, and improve the House;
+
+(iii) To make rules and requirements governing the Corporation’s actions and the use or occupancy of the House;
+
+(iv) To incur debt, including secured debt, including granting a mortgage on the House in connection with such secured loan; provided, however, that any such mortgage shall also be subject to approval by Voting Members;
+
+(v) To determine and oversee all financial and policy matters of the Corporation, including without limitation
+
+(x) setting from time-to-time the amounts of annual dues to be paid to the Corporation by an Alumni Member and/or annual donations to be made to PCF by an Alumni Member, and the other terms and conditions associated therewith, in order to be a Voting Member, and (y) determining periodically whether or not to make a donation to PCF or any other organization exempt from federal income taxation pursuant to Section 501(c)(3) or Section 501(c)(7) of the Internal Revenue and the amount thereof;
+
+(vi) To award, direct others to award, and make recommendations to others to award, available scholarships (if any) to Undergraduate Members, applying applicable criteria, including any such criteria that may from time to time be established by the Board;
+
+(vii) To communicate with Members and others on behalf of the Corporation; and
+
+(viii) To perform such activities consistent with serving as the Alpha Tau alumni chapter;
+
+provided, however, that the Board may not knowingly excise its powers or authority in a manner that is inconsistent with the status of the Corporation with the IRS.
+
+b. The Board is authorized to discipline any Member, Director, or Officer when warranted for non-compliance with these By-Laws, the Certificate of Incorporation, the House rules, or other rules, including but not limited to expulsion or suspension from membership in the Corporation (with loss of member voting and other rights) and/or removal as a Director or Officer. The Board of Directors shall determine, by a two-thirds vote of the Directors present at a Board meeting at which quorum exists, whether the circumstances, situation and facts merit such discipline and the applicable sanction. For avoidance of doubt, nothing herein limits the ability of the Corporation to pursue collection against any person (including a Member, Director or Officer) for failure to pay amounts (including rent) owed by such person to the Corporation. Notwithstanding anything to the contrary, none of the Corporation, the Directors, the Officers, or the Members have any duty or obligations whatsoever to monitor compliance with, or seek to cause compliance with, these By-Laws, the Certificate of Incorporation, the House rules, or other rules.
+
+[[pci.art-iii.sec-2]]
+=== Section 2. Number of Directors
+
+The number of Directors constituting the whole Board shall be not less than nine (9) nor more than twenty-one (21). The Board may increase or decrease the number of Directors and specify the class of Directors to which such action relates; provided, however, no decrease in the number of Directors shall shorten the term of any incumbent Director.
+
+// source-page: 7
+
+[[pci.art-iii.sec-3]]
+=== Section 3. Classes of Directors
+
+The Board shall be divided into three classes (designated as Class I, Class II, and Class III) solely for the purpose of implementing a staggered-term Board. Each class shall consist, as nearly as may be possible, of one-third of the total number of Directors constituting the entire Board, regardless of whether a Director is elected by Members or appointed by the Board. Each Director shall be assigned to a class at the time of his election or appointment. No Director may serve simultaneously in multiple classes.
+
+[[pci.art-iii.sec-4]]
+=== Section 4. Election by Members; Staggered Terms
+
+a. Persons to serve as Directors of a class with an expiring term shall be elected by Voting Members in accordance with these By-Laws at each Annual Meeting of Members. Each Director elected by Members shall serve for a term ending on the date of the third Annual Meeting of Members following the Annual Meeting of Members at which such Director was elected; provided, however, that the term of each such Director shall continue until the election (or appointment, as applicable) and qualification of his successor (unless the Board determines that there is to be no such successor) and shall be subject to his earlier death, resignation, or removal.
+
+b. Directors may succeed themselves in office.
+
+[[pci.art-iii.sec-5]]
+=== Section 5. Vacancies; Appointment by the Board
+
+Any vacancy occurring on the Board for any reason (other than an expiring term) may be filled by majority vote of the Directors then in office at a regularly scheduled board meeting or at a meeting called for the purpose of filling the vacancy. Each Director so appointed shall serve for the remainder of the full term of the class of Directors in which the new directorship was created or the vacancy occurred; provided, however, that the term of such Director shall continue until the election (or appointment, as applicable) and qualification of his successor (unless the Board determines that there is to be no such successor) and shall be subject to his earlier death, resignation, or removal. The Board shall have, and may exercise, all its powers and authority notwithstanding the existence of one or more vacancies in the number of Directors.
+
+[[pci.art-iii.sec-6]]
+=== Section 6. Qualification
+
+Directors must be Alumni Members but need not be residents of the State of New York.
+
+[[pci.art-iii.sec-7]]
+=== Section 7. Resignation
+
+Any Director may resign at any time by giving written notice of his resignation to the President or the Secretary. Unless otherwise specified in such notice, the resignation shall be effective upon receipt. The acceptance of such resignation shall not be necessary to make it effective, unless otherwise specified in such resignation.
+
+[[pci.art-iii.sec-8]]
+=== Section 8. Attendance and Removal
+
+a. Directors are expected to attend all Board meetings. Any Director that anticipates he will be unable to attend a Board meeting shall notify the Secretary at least 48 hours in advance of the meeting.
+
+// source-page: 8
+
+b. A Director who misses more than fifty percent (50%) of the regularly scheduled Board meetings during a twelve-month period or three (3) consecutive Board meetings (not counting absences excused by vote of the Board) shall automatically be deemed to have resigned as a Director and shall promptly be informed thereof. Any such former Director may, upon appeal and explanation at the immediately subsequent Board meeting thereafter, be re-instated by the Board, provided that the maximum number of Directors is not exceeded. A Director may also be removed from his position of Director with cause by seventy-five percent vote of the Board, after notification to such Director of such proposed action and such Director being given a reasonable opportunity to be heard by the Board prior to such vote. A Director whose removal is under consideration shall not be entitled to vote and shall not be counted in determining whether quorum or the requisite number of votes has been obtained. Any Director removed for cause may not again be elected or appointed to the Board for a period of five (5) years thereafter, except that any Director removed for cause which constitutes a violation of criminal law shall be permanently barred from serving again as a Director.
+
+[[pci.art-iii.sec-9]]
+=== Section 9. No Compensation; Reimbursement
+
+Directors, Officers, and committee members shall receive no compensation for their services as such. Directors, Officers, and committee members may, by resolution of the Board or policy adopted by the Board, be reimbursed for reasonable expenses paid while acting on behalf of the Corporation. Nothing herein shall preclude any Director from serving the Corporation in any other capacity and receiving compensation therefor as authorized by the Board.
+
+[[pci.art-iv]]
+== ARTICLE IV - Meetings of Directors
+
+[[pci.art-iv.sec-1]]
+=== Section 1. Meetings
+
+The Board may hold meetings (regular or special) at the House, any other place either within or without the State of New York, or virtually and consistent with the provisions of Article VI.
+
+a. Regular meetings of the Board shall be held at such times and places as fixed by the Board or the President and stated in the written notice of the meeting, provided that the Board shall hold a regular meeting on the same date and at the same place as the Annual Meeting of Members (such meeting being the “Annual Meeting of Directors”). If not previously determined, the time and date of the next scheduled Board meeting shall be determined at, or promptly after adjournment of, the previous meeting. No notice of such regular meetings need be given to Directors.
+
+b. Special meetings of the Board may be held at any time and place upon call of the President or not less than three (3) Directors. Notice of a special meeting shall be given to each Director at least three (3) Business Days prior to the date of the meeting. A notice of a meeting need not specify the purposes of the meeting unless otherwise required by law, the Certificate of Incorporation, or these Bylaws.
+
+// source-page: 9
+
+c. The President shall preside at all Board meetings and may designate another Director to preside at any meeting if the President is absent from the meeting, and if no such designation is made, the designated Vice President shall preside in accordance with Article VII, Section 6.
+
+d. At each Board meeting, each Officer and each committee chair will report the status and developments in his/her area of responsibility, unless otherwise specified by the presiding Officer.
+
+e. The meetings of the Board are open for attendance by Voting Members, provided that the Board may go into executive session with only Directors and invited guests present to the extent not prohibited by applicable law. The Secretary shall, promptly after the Board’s regular meeting schedule for a calendar year is determined, publish and/or cause to be provided to Voting Members (e.g., via the brother resource center maintained on the internet) the regular meeting schedule of the Board with updates and additions of special meetings to be published and/or provided to Voting Members as needed to reflect changes or additions to the schedule. The Board may, by invitation or otherwise, permit other persons to attend meetings of the Board.
+
+[[pci.art-iv.sec-2]]
+=== Section 2. Quorum
+
+The presence (as set forth in Article VI, Section 1 (but excluding attendance by proxy)) at any meeting of the Board of a majority of Directors in office shall constitute a quorum for the transaction of business, unless a different number of Directors is specified by law, these By-Laws, or the Certificate of Incorporation. In the event one or more Directors shall be disqualified to vote at any meeting, then the required quorum shall be a majority of the non-disqualified Directors.
+
+[[pci.art-iv.sec-3]]
+=== Section 3. Action at Meeting
+
+At any meeting of the Board at which a quorum is present, the vote of a majority of those Directors present (but excluding voting by proxy) and entitled to vote shall be sufficient to take any action, unless a different vote is specified by law, these By-Laws, or the Certificate of Incorporation. Directors shall vote as a single class.
+
+[[pci.art-iv.sec-4]]
+=== Section 4. Adjournment
+
+Whether or not a quorum is present, a majority of Directors present at a meeting of the Board may adjourn the meeting to another place, date, or time. When a meeting is adjourned to another place, date, or time, and the place, date, and time of the adjourned meeting are announced at the meeting at which adjournment is taken, written notice need not be given of the adjourned meeting unless the date thereof is more than thirty (30) days after the date for which the meeting was originally noticed. At any such adjourned meeting at which a quorum is present, any business may be transacted that might have been transacted at the meeting as originally noticed.
+
+[[pci.art-iv.sec-5]]
+=== Section 5. Action By Consent
+
+Any action required or permitted to be taken at a meeting of the Board or of any committee may be taken without a meeting if written consents setting forth the action taken are signed and dated (including via electronic methods) by all of the members of the Board or of such committee, as the case may be. Such consents (which may be in one instrument or several instruments) shall be filed with the minutes of the proceedings of the Board or of the committee. Unless otherwise specified in such consents, the effective date of any action so taken is the date on which the last Director signs the consents.
+
+// source-page: 10
+
+[[pci.art-v]]
+== ARTICLE V - Committees
+
+[[pci.art-v.sec-1]]
+=== Section 1. Standing Committees
+
+The Board currently has two standing committees: the Executive Committee and the Succession Planning Committee. The Board may create and designate from among its members or former members any number of additional standing committees, each consisting of three or more Directors, and each of which shall have such authority of the Board as set forth in the resolution creating such committee or in such committee’s charter approved by the Board.
+
+[[pci.art-v.sec-2]]
+=== Section 2. Ad Hoc Committees and Working Groups
+
+Each of the Board and the President may create any number of ad hoc committees or working groups, the members thereof to be appointed by the Board or the President creating the same and such members may, but need not, be Directors or Members. Such ad hoc committees and working groups shall have only the authority specifically delegated to them by the Board or the President, as applicable. An ad hoc committee or working group may be dissolved by the Board or the President and shall be dissolved upon completion of the work assigned thereto.
+
+[[pci.art-v.sec-3]]
+=== Section 3. Limitation on Delegated Board Authority
+
+Notwithstanding anything to the contrary, no committee or working group shall have authority as to the following matters (authority over which such matters shall remain exclusively with the Board):
+
+(i) submitting to Voting Members any action requiring Members’ approval;
+
+(ii) filling vacancies on the Board or any committee, or removing, suspending, or sanctioning Directors, Officers, or Members;
+
+(iii) admitting Honorary Members or awarding The Grant Palsgrove Award;
+
+(iv) making a donation to PCF or any other organization exempt from federal income taxation pursuant to Section 501(c)(3) or Section 501(c)(7) of the Internal Revenue Code;
+
+(v) approving a merger or plan of dissolution or authorizing a transaction involving the sale, lease, exchange or other disposition of all or substantially all the assets of the Corporation;
+
+(vi) amending or repealing the Certificate of Incorporation or these By-Laws or adopting new By-Laws; and
+
+(vii) amending or repealing any resolution of the Board.
+
+[[pci.art-v.sec-4]]
+=== Section 4. Executive Committee
+
+The members of the Executive Committee shall be the President, the Treasurer, and the Secretary (and any Vice President shall be an alternate member in the absence of either the Treasurer or the Secretary), each such member having one vote and a quorum consisting of at least two of its members (one of which has to be the President). The President shall chair the Executive Committee. The Executive Committee is empowered between Board meetings to administer the business of the Corporation for the Board, and it shall report on all substantive actions taken at the immediately following meeting of the Board.
+
+// source-page: 11
+
+[[pci.art-v.sec-5]]
+=== Section 5. Succession Planning Committee
+
+a. The Succession Planning Committee shall be composed of at least three current or former Directors who shall be appointed by the Board. If the Board or the President does not appoint a committee chairperson, the Succession Planning Committee shall appoint a chairperson from its membership. The process for conducting meetings of Directors set forth in these By-Laws shall apply to the conduct of meetings of the Succession Planning Committee.
+
+b. The purposes of the Succession Planning Committee are to seek additional persons to serve as Directors and committee and working group members in order to foster new ideas and to expand involvement, and to perform such other functions as are assigned by the Board or the President.
+
+c. The Succession Planning committee shall seek qualified candidates on its own, receive nominations from Voting Members, evaluate candidates and nominations, and recommend to the Board persons to serve as Directors. The Succession Planning Committee shall ensure that Voting Members have adequate opportunity to submit nominations for consideration by the Succession Planning Committee by notifying Voting Members when the Board is actively seeking new or additional persons to serve as Directors. Regardless of whether the Board is actively seeking new or additional persons to serve as Directors, the time period for Voting Members making nominations shall be opened approximately 120 days prior to the date of each Annual Meeting of Members and shall remain open for at least forty-five (45) days. The request for nominations should state the requirements and qualifications for Board membership and the deadline for submission. Nominations may be submitted only by Voting Members, and Voting Members may self-nominate. Each nomination submitted to the Succession Planning Committee shall be accompanied by the nominee’s contact information and a written statement signed by the nominee that he is willing to serve as a Director if elected or appointed (as applicable).
+
+d. The Succession Planning Committee shall consider and evaluate
+
+(i) all Voting Member- submitted nominations,
+
+(ii) any additional persons that the Succession Planning Committee deems appropriate, and
+
+(iii) current Directors with expiring terms that are willing and able to continue to serve. The Succession Planning Committee shall annually present to the Board a list of proposed candidates for the Board’s consideration from which the Board shall determine which candidates shall stand for election at the Annual Meeting of Members. As applicable, the Board shall also determine which candidates (if any) it shall appoint (to the extent the Board is authorized to so appoint candidates in accordance with these By-Laws). All nominees selected by the Board for election by Voting Members shall be notified of their candidacy status no later than the date on which notice is given to Voting Members of the corresponding Annual Meeting of Members. Any nominated Voting Member who is not so selected by the Board can be renominated in subsequent years. In order to afford an adequate opportunity for the Succession Planning Committee to consider and evaluate potential nominations, no nominations from the floor or write-ins shall be accepted at the Annual Meeting of Members.
+
+// source-page: 12
+
+e. A Voting Member may petition a nominee onto the ballot for Director election at an Annual Meeting of Members provided that following prerequisites are satisfied:
+
+(i) the nominee is an Voting Member; and
+
+(ii) the petition is accompanied by a written letter of recommendation from a Director or Officer or PCF. No more than one petition candidate shall be allowed on the ballot per Annual Meeting of Members. If more than one petition candidate is submitted that satisfies all the prerequisites, then the Succession Planning Committee shall recommend to the Board, and the Board shall select, which petition candidate shall appear on the ballot.
+
+[[pci.art-vi]]
+== ARTICLE VI - Meetings Generally
+
+[[pci.art-vi.sec-1]]
+=== Section 1. Format for Holding Meetings
+
+Any meeting of Members, the Board, a committee, or otherwise may, as determined by the appropriate person, be held in person, telephonically, via a virtual online format (e.g., Zoom or Teams) or a combination of one or more of the forgoing formats so long as the format provides that participants may simultaneously hear and be heard by other participants. Participation by such means shall constitute presence in person at such meeting.
+
+[[pci.art-vi.sec-2]]
+=== Section 2. Methods of Notice; Delivery
+
+Whenever, under the provisions of law, the Certificate of Incorporation, or these By-Laws, notice is required or permitted to be given to any Director, Member, committee, or working group member, or other person, such notice may be given in writing in person, by first-class mail, or electronic mail to such person at their usual or last known business, residence, or email address, as applicable. Such notice shall be deemed to be given when delivered in-person, at the time it is deposited, with postage prepaid thereon, in the United States mail or when sent electronically, as applicable. In accordance with the N-PCL, whenever there are more than five hundred Members, the notice of a meeting of Members may be served by publication in a newspaper published in Rensselaer County, New York once a week for three successive weeks next preceding the date of the meeting, provided that the Corporation shall also prominently post notice of such meeting on the homepage of any website maintained by the Corporation continuously from the date of publication through the date of the meeting.
+
+[[pci.art-vi.sec-3]]
+=== Section 3. Waiver
+
+Notwithstanding anything to the contrary, notice of any meeting need not be given to any person otherwise entitled to notice thereof who submits a signed waiver of notice, before or after the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to them.
+
+[[pci.art-vi.sec-4]]
+=== Section 4. Conduct
+
+Subject to the other provisions of these By-Laws, meetings of Members, Directors, committees and working groups shall generally be conducted in accordance with the procedure and means outlined in Robert’s Rules of Order.
+
+// source-page: 13
+
+[[pci.art-vii]]
+== ARTICLE VII - Officers
+
+[[pci.art-vii.sec-1]]
+=== Section 1. Officers
+
+The officers (“Officers”) of the Corporation shall consist of a President, one or more Vice Presidents, a Secretary, a Treasurer, a Facilities Manager, and such other Officers as the Board may determine are necessary or desirable. Any two or more offices may be held by the same person, except the offices of President and Secretary.
+
+[[pci.art-vii.sec-2]]
+=== Section 2. Election; Qualification
+
+Persons to serve as Officers with expiring terms shall be elected by the Board in accordance with these By-Laws at each Annual Meeting of Directors, and any other vacancy occurring in an Officer position for any reason may be filled by majority vote of the Board. To hold any office of the Corporation, a person must be an Alumni Member. Further, to hold the office of President, Vice-President, Secretary, Treasurer or Assistant Treasurer, a person must also be a Director. The other Officers may, but need not, be Directors. The loss or cessation of such qualification by any person, or the end of his term as Director or Officer, shall also create a vacancy in such person’s office.
+
+[[pci.art-vii.sec-3]]
+=== Section 3. Tenure
+
+Each Officer shall serve for a term ending on the date of the second Annual Meeting of Directors following such Officer’s election (unless a shorter term is specified in the vote electing such Officer); provided, however, that the term of an Officer appointed to fill the remaining term of another Officer shall be for the remainder of such other Officer’s term; and provided, further, however, that the term of each Officer shall continue until the election and qualification of his successor (unless the Board determines that there is to be no such successor) and shall be subject to his earlier death, resignation, or removal. Officers may succeed themselves in office.
+
+[[pci.art-vii.sec-4]]
+=== Section 4. Resignation; Removal
+
+Any Officer may resign by delivering his or her written resignation to the President or the Secretary. Unless otherwise specified in such notice, the resignation shall be effective upon receipt. The acceptance of such resignation shall not be necessary to make it effective, unless otherwise specified in such resignation. Any Officer may be removed at any time, with or without cause, by the Board.
+
+[[pci.art-vii.sec-5]]
+=== Section 5. President
+
+The President shall, subject to the direction of the Board, have general charge and supervision of the operations or activities of the Corporation. The President shall be chairman of the Board and the chief executive officer of the Corporation and shall have the general powers and duties generally vested in the chairman of the board and chief executive officer of a company, and shall perform such other duties and shall have such other powers as are assigned to such Officer by the Board. The President shall be a voting ex-officio member of each committee and working group.
+
+[[pci.art-vii.sec-6]]
+=== Section 6. Vice Presidents
+
+Any Vice President shall perform such duties and possess such powers as the Board or the President may from time to time prescribe. One Vice President may be designated by the Board to perform the duties and exercise the powers of the President in the event of the President’s absence or incapacity or inability to act.
+
+// source-page: 14
+
+[[pci.art-vii.sec-7]]
+=== Section 7. Secretary
+
+The Secretary shall perform such duties and shall have such powers as are incident to the office of Secretary and as are assigned to such Officer by the Board or the President. In addition, the Secretary shall give notice of, and keep the records for, all meetings of Members, the Board and committees of the Board. The Secretary shall maintain and periodically update a list of Members by class and, with respect to Alumni Members, their status as Voting or Non-Voting. The Secretary shall affix the seal of the Corporation to all instruments requiring the corporate seal when the same shall have been signed on behalf of the Corporation by a duly authorized Officer. The Secretary shall be the custodian of all contracts, deeds, documents and all other indicia of title to properties owned by the Corporation and of its other corporate records. To such extent as the Board or the President shall deem proper, the duties of Secretary may be performed by one or more assistant or temporary secretaries, to be appointed by the Board or the President. In the absence of the Secretary at any meeting of Members or directors, the person presiding at the meeting shall designate a temporary secretary to keep a record of the meeting. A certificate by the Secretary, or an assistant or temporary Secretary, as to any action taken by the Members, Directors, a committee or any Officer or representative of the Corporation shall as to all persons who rely on the certificate in good faith be conclusive evidence of such action.
+
+[[pci.art-vii.sec-8]]
+=== Section 8. Treasurer
+
+The Treasurer shall perform such duties and shall have such powers as are incident to the office of Treasurer and as are assigned to such Officer by the Board or the President. The Treasurer shall have charge and custody of, and be responsible for, all funds and securities of the Corporation and shall deposit all such funds to the credit of the Corporation in such banks, trust companies or other depositories as shall be selected in accordance with the provisions of these By-Laws. The Treasurer must give a bond only if specifically required by the Board. The Treasurer shall disburse the funds of the Corporation as may be ordered by the Board or the President, making proper vouchers for such disbursements, and shall render to the President or the Board, whenever the President or the Board may require, and shall present at all Annual Meetings of Members, a statement of the financial condition of the Corporation. To such extent as the Board or the President shall deem proper, the duties of the Treasurer may be performed by one or more assistants to be appointed by the Board or the President.
+
+[[pci.art-vii.sec-9]]
+=== Section 9. Facilities Manager
+
+The Facilities Manager shall be responsible for advising on all matters pertaining to the condition of the House, including the maintenance, upgrades, replacements, and repair of the House and premises. He or she shall determine renovation and repair projects for the Corporation to undertake to improve the House and obtain quotes for any relevant work. He or she shall review any quotes for work and report his or her findings to the Board.
+
+[[pci.art-viii]]
+== ARTICLE VIII - Awards
+
+[[pci.art-viii.sec-1]]
+=== Section 1. The Corporation has established “The Grant Palsgrove Award,” which the Board may from time-to- time award, after receipt of a written nomination submitted to the President, to any Member who has made or provided exceptional contributions or services to the Corporation, the Alpha Tau Chapter, the House and/or PCF
+
+// source-page: 15
+
+[[pci.art-viii.sec-2]]
+=== Section 2. A plaque shall be displayed inside the House recognizing the spirit and contributions of Professor Grant Palsgrove (1888-1980) RPI 1911, who, as a founding member of the Alpha Tau Chapter, was instrumental in efforts by the Corporation to acquire the House and gave his time, experience, treasure, advice, and leadership to the Members over many years and The Grant Palsgrove Award recipients by listing their names
+
+[[pci.art-ix]]
+== ARTICLE IX - Insurance and Indemnification
+
+[[pci.art-ix.sec-1]]
+=== Section 1. Indemnification and Insurance
+
+a. Indemnification. The Corporation shall indemnify any person who was or is a party, or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the Corporation) by reasons of the fact that he or she is or was Director, Officer, employee or agent of the Corporation. The individual shall be indemnified against expenses (including reasonable attorneys’ fees), judgments, fines, and amounts paid in settlement actually and reasonably incurred by such person in connection with such action, suit, or proceeding, provided that
+
+(i) such settlement was approved by the Board or the Voting Members and
+
+(ii) such person acted in good faith and in a manner he or she reasonably believed to be in, or not opposed to, the best interests of the Corporation. In addition, with respect to any criminal action or proceeding, the person shall be entitled to indemnification only if he or she had no reasonable cause to believe his or her conduct was unlawful.
+
+b. Insurance. The Corporation may obtain and maintain insurance, including for actions that are not indemnifiable under applicable law.
+
+c. Non-exclusivity of Rights. The right to indemnification and advancement of expenses conferred in this Article shall not be exclusive of any other right which a Director, Officer, employee, or agent may be entitled under law, the Certificate of Incorporation, these By-Laws, a resolution of directors, or an agreement providing for such indemnification or advancement.
+
+d. Repeal or Amendment. No repeal or amendment of this Section shall adversely affect any right or protection of an individual with respect to any act or omission occurring prior to such repeal or amendment.
+
+[[pci.art-x]]
+== ARTICLE X - General Provisions
+
+[[pci.art-x.sec-1]]
+=== Section 1. Fiscal Year
+
+The annual accounting period of the Corporation shall begin on January 1 and end on December 31, unless otherwise determined by the Board.
+
+// source-page: 16
+
+[[pci.art-x.sec-2]]
+=== Section 2. Accounting System
+
+The Corporation shall prepare all of its financial statements with generally accepted accounting principles consistently applied as a guideline, unless the Board approves other forms of statements which fairly present the financial results and condition of the Corporation.
+
+[[pci.art-x.sec-3]]
+=== Section 3. Books and Records
+
+The Corporation shall keep at the House (or such other location as determined by the Board):
+
+(i) correct and complete books and records of accounts,
+
+(ii) minutes of the proceedings of the Members, the Board and any committee, and
+
+(iii) a current list or record containing the names and addresses of all Members (and, with respect to Alumni Members, their status as Voting or Non- Voting), Directors and Officers. Any of the books, records and minutes of the Corporation may be in written form or in any other form capable of being converted into written form within a reasonable time. Such books and records shall be made available for inspection and copying by any Voting Member upon a written request reasonably specifying the documents to be inspected submitted to the President and Secretary at least thirty (30) calendar days prior to date of inspection. Such access and copying shall be subject to restrictions, rules, and procedures provided by resolution of the Board or by applicable law.
+
+[[pci.art-x.sec-4]]
+=== Section 4. Mergers, Consolidations, Sales of Assets and Acquisitions; Liquidation
+
+The Corporation shall not, without the prior approval by a two-thirds vote of the Board and approved by a seventy-five percent (75%) vote of Voting Members:
+
+(i) merge into, consolidate with, or enter into any other reorganization with, any entity, or permit any entity to merge into, consolidate with, or enter into any other reorganization with it, or sell, transfer, lease or otherwise dispose of (in one transaction or in a series of transactions) more than 20% of its assets (whether now owned or in the future acquired) to any entity or purchase, lease or otherwise acquire (in one transaction or a series of transactions) all or any substantial part of the assets of any entity, or enter into any contract or agreement relating to any of the foregoing, except that the Corporation may purchase and sell inventory, equipment and supplies in the ordinary course of business; or
+
+(ii) voluntarily dissolve, liquidate or wind-up or carry out any partial liquidation of the Corporation.
+
+[[pci.art-x.sec-5]]
+=== Section 5. Conflicts of Interest Policy; Transactions with Interested Parties
+
+a. Overview. The provisions of this Section shall serve as the Corporation’s conflicts of interest policy unless and until the Board adopts a stand-alone conflicts of interest policy. Any stand- alone conflicts of interest policy shall be consistent with the terms set forth in this Section, as they may be amended from time to time in accordance with these By-Laws.
+
+b. No contract or transaction between the Corporation and one or more Directors, Officers, or key persons, or between the Corporation and any other corporation, partnership, association, or other organization in which one or more of Directors, Officers, or key persons are directors or officers, or have a substantial financial interest, shall be void or voidable solely for this reason,
+
+// source-page: 17
+
+or solely because the Director, Officer, or key person is present at or participates in the meeting of the Board or committee which authorizes the contract or transaction or solely because the votes of such Director, Officer, or key person are counted for such purpose, if:
+
+(i) the material facts as to the relationship or interest and as to the contract or transaction are disclosed or are known to the Board or the committee, and the Board or committee in good faith authorizes the contract or transaction by the affirmative vote of a majority of the disinterested Directors, even though the disinterested Directors may be less than a quorum; and
+
+(ii) the contract or transaction is fair as to the Corporation as of the time it is authorized, approved, or ratified by the Board, a committee, or the Members.
+
+Common or interested directors may be counted in determining the presence of a quorum at a meeting of the Board or of a committee which authorizes the contract or transaction.
+
+c. Annual Disclosure. Each Director, Officer, and key person must provide the Board and the Secretary with an annual written disclosure of the following:
+
+(i) the Director’s, Officer’s, or key person’s business involvements with the Corporation; and
+
+(b) the Director’s, Officer’s, or key person’s other board memberships, whether of for- profit or non-profit corporations.
+
+Such annual written disclosure must be circulated to all of the Directors of the Corporation and must be updated throughout the year, as necessary.
+
+[[pci.art-x.sec-6]]
+=== Section 6. Amendment of Certificate of Incorporation or By-Laws
+
+Each of the Certificate of Incorporation and these By-Laws may be altered, amended, repealed and/or restated by action of the Board and approved by the Voting Members at a meeting called for that purpose by the Board.
+
+[[pci.art-x.sec-7]]
+=== Section 7. Severability
+
+Any determination that any provision of these By-Laws is for any reason inapplicable, illegal or ineffective shall not affect or invalidate any other provision of these By-Laws.
+
+// source-page: 18
+
+== CERTIFICATE
+
+The undersigned, being the duly appointed Secretary of the Corporation, hereby certifies the foregoing to be the By-Laws of the Corporation as approved and adopted by the requisite vote of the Board on the 14th day of September, 2026 and by the requisite vote of the Members on the 10th day of October, 2026.
+
+Date: ________________________ ________________________________ Secretary
+
+// source-page: 19
+
+== Glossary of Defined Terms
+
+For purposes of these By-Laws, the following definitions shall apply:
+
+Term Meaning
+
+Alpha Tau Chapter The Alpha Tau Chapter of the Pi Kappa Phi Fraternity at RPI, an unincorporated voluntary association (EIN 23-7425023) comprised of all the then-current initiated brothers who, as of the relevant date, are both in good standing with the Pi Kappa Phi fraternity and students matriculated as undergraduates at RPI. The Alpha Tau Chapter is exempt from federal income tax as a social club pursuant to Section 501(c)(7) of the Internal Revenue Code. Contributions to the Alpha Tau Chapter are not tax deductible. The Alpha Tau Chapter is also known as the undergraduate chapter.
+
+Alumni Member Has the meaning ascribed to such term in Article II, Section 1(a)(i).
+
+Annual Meeting of Has the meaning ascribed to such term in Article IV, Section 1(a). Directors
+
+Annual Meeting of The meeting of the Members at which persons are elected as Members Directors, which shall be held once per approximate calendar year.
+
+Board The board of directors of the Corporation.
+
+Business Day Means days when banks in the State of New York are open for regular business.
+
+By-Laws The by-laws of the Corporation, as amended and/or restated from time to time.
+
+Certificate of The certificate of incorporation of the Corporation, as amended and/or Incorporation restated from time to time.
+
+// source-page: 20
+
+Corporation Paine Castle, Inc. (EIN 14-1470577), a New York “Type A” not-for- profit corporation that is organized and operated as a social club pursuant to Section 501(c)(7) of the Internal Revenue Code. Contributions to the Corporation are not tax deductible.
+
+Director A person duly elected and serving as a member of the Board.
+
+Honorary Member Has the meaning ascribed to such term in Article II, Section 1(a)(ii).
+
+House The historic Paine Mansion and its premises located at 49 Second Street, Troy, NY 12180, which is registered with the New York State Historical Preservation registry and owned by the Corporation.
+
+Internal Revenue Code The Internal Revenue Code of 1986, as amended (or of the corresponding provision of any future United States Internal Revenue Code).
+
+IRS The Internal Revenue Service.
+
+Members All members of the Corporation collectively, regardless of class or status as Voting Members or Non-Voting Members. Notwithstanding anything to the contrary, Undergraduate Members shall not be members of the Corporation for purposes of the N-PCL.
+
+Non-Voting Member A Member who is not a Voting Member.
+
+N-PCL The Not-for-Profit Corporation Law of the State of New York, as amended.
+
+Officers Has the meaning ascribed to such term in Article VII, Section 1.
+
+PCF Paine Castle Foundation, Inc. (EIN 81-3121349) was incorporated in 2016 as a New York not-for-profit corporation without any members. PCF is exempt from federal income tax pursuant to Section 501(c)(3) of the Internal Revenue Code. Contributions to PCF are tax
+
+// source-page: 21
+
+deductible.
+
+RPI Rensselaer Polytechnic Institute.
+
+Undergraduate Has the meaning ascribed to such term in Article II, Section 1(a)(iii). Member
+
+Voting Member An Alumni Member who is entitled to vote on certain matters affecting the Corporation pursuant to the terms and conditions set forth in these By-Laws, including Section 1(a)(v) of Article III. For the avoidance of doubt, no Honorary Member nor any member of the Alpha Tau Chapter shall be a Voting Member.
+
+// source-page: 22

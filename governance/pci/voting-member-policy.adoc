@@ -1,0 +1,19 @@
+= PCI Voting Member Policy
+:doctype: article
+:sectnums!:
+:toc:
+:toclevels: 4
+:source-pdf: ../../sources/2026-pci-voting-member-policy.pdf
+:source-sha256: ef1ce415ed9b97b6f73cff592ae129c9e99405eb0d40ed4afa8504485018e1e8
+:document-id: 2026-pci-voting-member-policy
+:transcription-method: OCR-first; embedded text layer used to correct OCR where available
+:transcription-status: machine-normalized; source PDF remains authoritative
+
+
+// source-page: 1
+
+The following policy was adopted by the PCI board at the 14 September 2026 Board Meeting:
+
+To be considered a Voting Member, Alumni Members must satisfy one of the following criteria: Make a donation or pay dues to PCI of at least $25 in the last 12 months but two weeks prior to the meeting. Make a donation of at least $25 to PCF in the last 12 months but two weeks prior to the meeting. Purchase a ticket and attend the Reunion/PCI Annual Meeting. Become an Alumni Member in the last 12 months. Obtain a waiver of these requirements which is approved by a majority of PCI directors.
+
+// source-page: 2
