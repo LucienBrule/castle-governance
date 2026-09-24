@@ -1,0 +1,195 @@
+{
+  "schema": "castle-governance/ocr-manifest/v1",
+  "pages": [
+    {
+      "path": "ocr/2022-atac-bylaws/page-001.txt",
+      "sha256": "d6aa1e1f1e0da34ab2d37c63aa9405013b48c5cc6a1d5e3946fa9ed53834f29b",
+      "bytes": 109
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-002.txt",
+      "sha256": "7aafddce95bcb476c79afc74c50b5b5b7f756e52f5ba7f24a56ef952bd42da21",
+      "bytes": 2251
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-003.txt",
+      "sha256": "72edfda20f560bf2189b6e01d9ece670d6549d6c4ebcea6fccdacccbeb65f029",
+      "bytes": 2238
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-004.txt",
+      "sha256": "0342e5771babeed03c3097ea501f0ffceca01e719e9c1730dba6bc23e50751b3",
+      "bytes": 1692
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-005.txt",
+      "sha256": "c02e3b51a26b4b7e13e2c03d7694d58ff0aa38ff467a1629b457bc5c8a19d972",
+      "bytes": 2307
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-006.txt",
+      "sha256": "fc2fd773e918daafde0d6da80fb096b6f4856fb4c43e98ce620ece55f07e1724",
+      "bytes": 1763
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-007.txt",
+      "sha256": "c5e7f42b097ac47087f8bb9356ac2d84fe989a673eb05c1293bdbdaba85b88a8",
+      "bytes": 1779
+    },
+    {
+      "path": "ocr/2022-atac-bylaws/page-008.txt",
+      "sha256": "18fa7e17cdee9e4a84400e0513cb0b839b259cba0503f616c903715c2ce596da",
+      "bytes": 299
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-001.txt",
+      "sha256": "e90daaa065b022aa55fdbb8ada3eda63e492130c268d054964a389a76b19ea6d",
+      "bytes": 1740
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-002.txt",
+      "sha256": "e750ec33603ae4d3c49f5cb6119d54593ad6f09f1e5b1d6d29e604e169fe4cc3",
+      "bytes": 2408
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-003.txt",
+      "sha256": "7247d52b6a2d54a8aafdd84fd5af27965b23384836f49f7c9b89b64d8fa553d1",
+      "bytes": 2999
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-004.txt",
+      "sha256": "6cd6f3b9760e3fbe0a1f687c5ddee4c56e26ef32e1c257bfdde6699387f87e80",
+      "bytes": 3086
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-005.txt",
+      "sha256": "c80fc41634375a08d288b722e159d5989d67fdb191b5d9ea9a1cb6eb13359cc6",
+      "bytes": 2683
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-006.txt",
+      "sha256": "189ee6b40b59995cd268ca3d1445cce34fc8be4aa142da172d7bad505c6c439f",
+      "bytes": 3225
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-007.txt",
+      "sha256": "ffa2c4abeed90d65007496e7ff92bc8a77bff6d74a98332bde6083dbe4eb6bce",
+      "bytes": 2864
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-008.txt",
+      "sha256": "05bed5780543fc481162fa94b4ceffc82730cda0f9194a4505e3e80ad7f773a8",
+      "bytes": 2973
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-009.txt",
+      "sha256": "efd9a92dd3254724c3394bd1593416dce485c8d40891e2328a67f3b312adef53",
+      "bytes": 3385
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-010.txt",
+      "sha256": "9f0e8e706c9b4d5a0921e31fbf34da1d8e1f87c776053b7f27a7cf2a014dce55",
+      "bytes": 2772
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-011.txt",
+      "sha256": "8e7476b7cf8ed4f3096f63315b7cb0bcedb7c6eec888bafa2714173d25d69188",
+      "bytes": 3322
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-012.txt",
+      "sha256": "e85ce4307fd374576a3c92f255d567349857a55428303b4df4205234f5dad230",
+      "bytes": 2841
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-013.txt",
+      "sha256": "9229d7a51a2038125ac54457a6d7d4dafbb598b41d8e490d66bf8e8eae6896de",
+      "bytes": 3140
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-014.txt",
+      "sha256": "67779ad5643a9b8a6304b2952620b72fe7fb5f53ad913596273217f967b05368",
+      "bytes": 3471
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-015.txt",
+      "sha256": "224b005f9ce8cd5d0aac2bf153a8d019faea6952b8126158406458e5eddd360c",
+      "bytes": 2498
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-016.txt",
+      "sha256": "3090780c59ab2b71bc8dd1d1e1cc6b498312141a154952eb3e2d16269cd6e676",
+      "bytes": 3219
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-017.txt",
+      "sha256": "6893c76ee3ede68546ba23a98202b67e2cfcf1aa1621ecc90a8951f5bb905d89",
+      "bytes": 2004
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-018.txt",
+      "sha256": "e20ac2fbdfe85a711d321e314c939633448ef8a2976bd7870f6fe842c1e6f35d",
+      "bytes": 347
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-019.txt",
+      "sha256": "7d1acc4c323f34ef07fb38b74066797027e1a118cc99711439f1140fb08ef6d6",
+      "bytes": 1414
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-020.txt",
+      "sha256": "08a450464c205ceb17448dd977e5b05b02355b360f28c03714a1c33b7b0f53d3",
+      "bytes": 1567
+    },
+    {
+      "path": "ocr/2026-pci-bylaws-proposed/page-021.txt",
+      "sha256": "d1e647df3391ba139f7fb97fdce20813c06c651455abf68002fdcac23bc8356c",
+      "bytes": 472
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-002.txt",
+      "sha256": "787cd4107af56014a2bb540304fefbaccbbdb597beec87e3d064cb02e1694000",
+      "bytes": 1062
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-003.txt",
+      "sha256": "7c15d86794cec59eb98dcbf28277f1dc1bd231f8f1b3fbf0602d3ea87cb5b810",
+      "bytes": 2531
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-004.txt",
+      "sha256": "21187703cdd9ee95f8eac62274e0607d87aafa940a6abd0045216d114d7c9fd7",
+      "bytes": 1798
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-005.txt",
+      "sha256": "9c894e8c52b564dbbd35411ec831c3c5be5b5a9d68d15168c27a832eaffd7fa7",
+      "bytes": 1405
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-006.txt",
+      "sha256": "6928a165bdd16a99dc6d7276d2408178dff95687c23d7ed6b7978be1d1942128",
+      "bytes": 1040
+    },
+    {
+      "path": "ocr/2026-pci-certificate-amendment/page-007.txt",
+      "sha256": "375cbe88d014f4ec15a52ed1e566dca61a72138e097372a9297a4e61d942a0ab",
+      "bytes": 1232
+    },
+    {
+      "path": "ocr/2026-pci-voting-member-policy/page-001.txt",
+      "sha256": "75ece6d1652abeb02d0fa96e01f3095e0f40959add48ae3200b3de31156fd945",
+      "bytes": 591
+    },
+    {
+      "path": "ocr/2026-annual-meeting-agenda/page-001.txt",
+      "sha256": "3209871af190f90a6ed28b6f9c47ae40ae53b33128344b068ded89191e2d7945",
+      "bytes": 1637
+    },
+    {
+      "path": "ocr/2026-annual-meeting-resolutions/page-001.txt",
+      "sha256": "bd098c4ad8503e2faf2dbc2727741ab1af4987993a033d9445ebdf1260387b8e",
+      "bytes": 1252
+    }
+  ]
+}

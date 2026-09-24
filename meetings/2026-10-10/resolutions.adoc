@@ -1,0 +1,33 @@
+= Resolutions for Annual Meeting - October 10, 2026
+:doctype: article
+:sectnums!:
+:toc:
+:toclevels: 4
+:source-pdf: ../../sources/2026-annual-meeting-resolutions.pdf
+:source-sha256: f16e69d1953c44c186b335a3d1eea30da539b0f635f42fe200ccc1b0e5d2005b
+:document-id: 2026-annual-meeting-resolutions
+:transcription-method: OCR-first; embedded text layer used to correct OCR where available
+:transcription-status: machine-normalized; source PDF remains authoritative
+
+
+// source-page: 1
+
+== RESOLUTIONS TO BE ADOPTED BY THE MEMBERS AT MEETING TO BE HELD ON OCTOBER 10, 2026:
+
+Amended and Restated By-Laws
+
+RESOLVED: That the Corporation’s By-Laws be and hereby are amended and restated in the form presented to the Members at this meeting.
+
+Certificate of Amendment to the Corporation’s Certificate of Incorporation
+
+RESOLVED: That the Certificate of Amendment to the Corporation’s Certificate of Incorporation be and hereby approved in the form presented to the Members at this meeting.
+
+Election of Directors
+
+RESOLVED: That each of Messrs. Steffancin, Arena, Zimmerman, and Gargiulo is re-elected as a director, each to serve in accordance with the Amended and Restated By-Laws of the Corporation until the later of the third Annual Meeting of Members occurring hereafter or their successors are duly elected and qualified.
+
+Reorganization of ATAC
+
+RESOLVED: That the Corporation is authorized to engage in a reorganization with the voluntary association known as the Alpha Tau Alumni Chapter (“ATAC”) in such form approved by the Board (including by way of merger, consolidation or asset acquisition) in connection with the Corporation becoming and serving as the Alpha Tau alumni chapter of the Pi Kappa Phi fraternity at RPI.
+
+// source-page: 2

@@ -1,0 +1,47 @@
+{
+  "schema": "castle-governance/source-manifest/v1",
+  "authority": "Circulated PDF artifacts are authoritative; structured text is a review representation.",
+  "documents": [
+    {
+      "path": "sources/2022-atac-bylaws.pdf",
+      "sha256": "ab149d1b5e20ae7eaf6baf6bff5216985f2e60739f64f202c50dd4d4e4471ed4",
+      "public_pages": 8,
+      "ocr_dir": "ocr/2022-atac-bylaws"
+    },
+    {
+      "path": "sources/2026-pci-bylaws-proposed.pdf",
+      "sha256": "79efa1e8e6f457df50d29e723540573450550ab4b63178565b13b50ccf4112fb",
+      "public_pages": 21,
+      "ocr_dir": "ocr/2026-pci-bylaws-proposed"
+    },
+    {
+      "path": "sources/2026-pci-certificate-amendment.pdf",
+      "sha256": "97f45688ca5352cde04f2500da31a9c2039b456a0b96ea9a7c0bea6c39be9ea0",
+      "public_pages": 6,
+      "ocr_dir": "ocr/2026-pci-certificate-amendment",
+      "public_derivative": true,
+      "derivation": "Circulated filing cover sheet omitted from the public copy because it contains personal contact information. Public derivative additionally optimized for repository distribution; full-original SHA remains recorded separately.",
+      "original_full_artifact_sha256": "2dec1c2b8486a29d84771e6254ba79dd6f624fda4d99c18cecd4aabe6c688615",
+      "original_full_artifact_pages": 7,
+      "original_full_artifact_committed": false
+    },
+    {
+      "path": "sources/2026-pci-voting-member-policy.pdf",
+      "sha256": "ef1ce415ed9b97b6f73cff592ae129c9e99405eb0d40ed4afa8504485018e1e8",
+      "public_pages": 1,
+      "ocr_dir": "ocr/2026-pci-voting-member-policy"
+    },
+    {
+      "path": "sources/2026-annual-meeting-agenda.pdf",
+      "sha256": "458bcee8991bc722b549718f43850ba675c5292082fbce46142782d5c67ae100",
+      "public_pages": 1,
+      "ocr_dir": "ocr/2026-annual-meeting-agenda"
+    },
+    {
+      "path": "sources/2026-annual-meeting-resolutions.pdf",
+      "sha256": "f16e69d1953c44c186b335a3d1eea30da539b0f635f42fe200ccc1b0e5d2005b",
+      "public_pages": 1,
+      "ocr_dir": "ocr/2026-annual-meeting-resolutions"
+    }
+  ]
+}
